@@ -26,6 +26,7 @@ The program generates Artemis-style text from the saved checkpoint.
 
 ## Traning Metrics.
 Example plot of training and validation loss.
+
 ![Training and validation loss](training_metrics.png)
 
 ## Files
