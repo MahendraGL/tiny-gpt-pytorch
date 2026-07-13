@@ -16,10 +16,6 @@ Training creates two useful files:
 - `artemis_gpt.pt` — the saved model checkpoint.
 - `training_metrics.png` — a plot of training and validation loss.
 
-## Traning Metrics.
-Example plot of training and validation loss.
-![Training and validation loss](training_metrics.png)
-
 After training once, run this quick demo without training again:
 
 ```powershell
@@ -27,6 +23,10 @@ python demo.py
 ```
 
 The program generates Artemis-style text from the saved checkpoint.
+
+## Traning Metrics.
+Example plot of training and validation loss.
+![Training and validation loss](training_metrics.png)
 
 ## Files
 
