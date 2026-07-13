@@ -4,7 +4,7 @@ A small character-level GPT written in PyTorch and trained on Artemis-program te
 
 This began as my own implementation of attention heads and Transformer blocks. I used Codex to help refine the incomplete parts into a runnable project while keeping the design simple.
 
-## Run it
+## How to run it?
 
 ```powershell
 python -m pip install -r requirements.txt
@@ -15,6 +15,10 @@ Training creates two useful files:
 
 - `artemis_gpt.pt` — the saved model checkpoint.
 - `training_metrics.png` — a plot of training and validation loss.
+
+## Traning Metrics.
+Example plot of training and validation loss.
+![Training and validation loss](training_metrics.png)
 
 After training once, run this quick demo without training again:
 
