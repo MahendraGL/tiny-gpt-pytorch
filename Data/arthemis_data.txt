@@ -1,0 +1,98 @@
+### Artemis program ###
+The Artemis program is a Moon exploration program led by the United States' National Aeronautics and Space Administration (NASA), aimed at returning humans to the Moon for the first time since the Apollo program and building a permanent lunar base. It was formally established via Space Policy Directive-1 in 2017.
+
+Among the principal elements of the Artemis program are Space Shuttle–derived hardware, such as the Space Launch System's (SLS) core stage, its RS-25 engines, and solid rocket boosters, as well as systems originating in the canceled Constellation program, including the Orion spacecraft (paired with the European Service Module) and booster upgrades initially developed for Ares V. Other elements, such as the Human Landing System (HLS), are in development by private spaceflight companies under contract. International collaborations are bound by the Artemis Accords.
+
+The uncrewed Artemis I mission sent an Orion spacecraft to lunar orbit in 2022. Artemis II sent four astronauts on a lunar flyby in 2026, becoming the first crewed flight beyond low Earth orbit since the Apollo program. Artemis III, scheduled for late 2027, is planned to test an HLS lunar lander in Earth orbit. Artemis IV, targeted for 2028, is planned to be the first crewed lunar landing since Apollo. Beginning with Artemis V no earlier than late 2028, NASA intends yearly lunar landings to develop a permanent lunar base, as a step toward human missions to deeper space.
+
+
+### Mission Overview ###
+The Artemis program is organized around a series of missions of increasing complexity, intended to be spaced about a year apart. NASA and its partners have planned missions Artemis I through Artemis V, with additional missions proposed. Each numbered mission centers on launching an SLS rocket carrying an Orion spacecraft. Missions after Artemis II will also rely on support missions by other organizations and spacecraft. Referred to under the name Lunar Codex, Artemis missions have also contemplated sending to the moon an archive of cultural works from creators across the globe.
+
+The core infrastructure of Artemis consists of SLS, Orion, and the HLS. Additional program elements include the Commercial Lunar Payload Services, Exploration Ground Systems, Artemis Base Camp, the Lunar Terrain Vehicle, and spacesuit development. Certain program choices, including the use of a near-rectilinear halo orbit and long-term sustainability plans, have drawn criticism.
+
+Orion's first launch on SLS, originally scheduled for 2016, was delayed repeatedly and ultimately flew on November 16, 2022, as Artemis I, carrying mannequins and robotic payloads. The crewed Artemis II (lunar fly-by) mission flew on April 1, 2026. The future Artemis III (Earth orbit) is planned for late 2027, Artemis IV (lunar landing) for early 2028 and Artemis V (lunar landing) for late 2028. NASA plans approximately annual lunar landings thereafter.
+
+### SLS Mission Timeline ###
+Orion's first launch on SLS, originally scheduled for 2016, was delayed repeatedly and ultimately flew on November 16, 2022, as Artemis I, carrying mannequins and robotic payloads. The crewed Artemis II (lunar fly-by) mission flew on April 1, 2026. The future Artemis III (Earth orbit) is planned for late 2027, Artemis IV (lunar landing) for early 2028 and Artemis V (lunar landing) for late 2028. NASA plans approximately annual lunar landings thereafter.
+
+Artemis II (April 1, 2026) was the first crewed test flight of SLS and Orion. The four crew members performed extensive testing of the spacecraft in high Earth orbit before Orion was boosted into a free-return trajectory around the Moon, returning to Earth for re-entry and splashdown. The mission was broadly comparable to Apollo 7 and Apollo 8, although Artemis II did not orbit the Moon and flew a more distant lunar flyby than the Apollo missions.
+
+Artemis III (late 2027) is planned to be the second crewed Artemis mission. The crew will launch aboard SLS/Orion and conduct rendezvous and docking tests in Earth orbit with one or both commercially developed lunar landers launched separately—SpaceX's Starship HLS and Blue Origin's Blue Moon—as well as test the Axiom Extravehicular Mobility Unit (AxEMU) space suit. The mission is broadly comparable to Apollo 9.
+
+Artemis IV (early 2028) is planned to be the first American crewed lunar landing since Apollo 17 in December 1972.The mission depends on a prior support flight to place a lander in lunar orbit before the launch of SLS/Orion. After arrival, astronauts will transfer to the lander for descent to the lunar surface, conduct at least two extravehicular activities (EVAs), and then return to lunar orbit for rendezvous with Orion. Orion will subsequently return the four astronauts to Earth. Launch is scheduled for no earlier than early 2028.
+
+Artemis V (late 2028) is planned to be the second crewed lunar landing. This mission also is when NASA is expected to begin building its Moon base.
+
+
+### History and naming as Artemis ###
+On December 11, 2017, President Trump signed Space Policy Directive 1, calling for a U.S.-led program for a human return to the Moon, followed by missions to Mars and beyond. The policy calls for the NASA administrator to "lead an innovative and sustainable program of exploration with commercial and international partners to enable human expansion across the Solar System and to bring back to Earth new knowledge and opportunities". The effort intends to more effectively organize government, private industry, and international efforts toward returning humans to the Moon and working toward eventual human exploration of Mars.
+
+Space Policy Directive 1 authorized the lunar-focused campaign, later named Artemis, drawing upon legacy U.S. programs, including the Orion space capsule, the Lunar Gateway space station, and Commercial Lunar Payload Services, and created the new Human Landing System program. The Space Launch System was expected to serve as the primary launch vehicle for Orion, while commercial launch vehicles were to launch various other elements of the program.
+
+On March 26, 2019, Pence announced that NASA's Moon landing goal would be accelerated by four years with a planned landing in 2024.On May 16, 2019, NASA Administrator Jim Bridenstine announced that the new program would be named Artemis, after the goddess of the Moon in Greek mythology who is the twin sister of Apollo, after which NASA's 1960's moon landing program was named. Mars missions by the 2030s were still intended as of May 2019.
+ 
+In mid-2019, NASA requested US$1.6 billion in additional funding for Artemis for fiscal year 2020, while the Senate Appropriations Committee requested from NASA a five-year budget profile which is needed for evaluation and approval by Congress.
+
+In February 2020, the White House requested a funding increase of 12% to cover the Artemis program as part of its fiscal year 2021 budget. The total budget would have been US$25.2 billion per year with US$3.7 billion dedicated toward a Human Landing System. NASA chief financial officer Jeff DeWit said he thought the agency had "a very good shot" to get this budget through Congress despite Democratic concerns around the program. However, in July 2020, the House Appropriations Committee rejected the White House's requested funding increase. The bill proposed in the House dedicated only US$700 million toward the Human Landing System, 81% (US$3 billion) short of the requested amount.
+
+In April 2020, NASA awarded funding to Blue Origin, Dynetics, and SpaceX for 10-month-long preliminary design studies for the HLS.
+
+On February 4, 2021, the Biden administration endorsed the Artemis program. More specifically, White House Press Secretary Jen Psaki expressed the Biden administration's "support [for] this effort and endeavor". However, throughout February 2021, Acting Administrator of NASA Steve Jurczyk reiterated those budget concerns when asked about the project's schedule, clarifying that "The 2024 lunar landing goal may no longer be a realistic target [...]".
+
+On April 16, 2021, NASA contracted SpaceX to develop, manufacture, and fly two lunar landing flights with the Starship HLS lunar lander. Blue Origin and Dynetics protested the award to the Government Accountability Office (GAO) on April 26. After the GAO rejected the protests, Blue Origin sued NASA over the award, and NASA agreed to stop work on the contract until November 1 as the lawsuit proceeded. The judge dismissed the suit on November 4, and NASA resumed work with SpaceX.
+
+On November 15, 2021, an audit of NASA's Office of Inspector General estimated the true cost of the Artemis program at about $93 billion until 2025.
+
+In addition to the initial SpaceX contract, NASA awarded two rounds of separate contracts in May 2019 and September 2021, on aspects of the HLS to encourage alternative designs, separately from the initial HLS development effort. It announced in March 2022 that it was developing new sustainability rules and pursuing both a Starship HLS upgrade (an option under the initial SpaceX contract) and new competing alternative designs. These came after criticism from members of Congress over the lack of redundancy and competition, and led NASA to ask for additional support.
+
+Artemis I was originally scheduled for late 2016, and as delays accrued, eventually for late 2021, but the launch date was then pushed back to August 29, 2022.Various delays related to final infrastructure repairs and weather pushed the launch date further out.
+
+In October 2022, NASA launch managers decided on a new launch date in November, which was again slightly delayed due to preparation and weather. On November 16 at 01:47:44 EST (06:47:44 UTC), Artemis I successfully launched from the Kennedy Space Center.
+
+### Artemis I (2022) ###
+Artemis I was completed at 09:40 PST (17:40 UTC) on December 11, when the Orion spacecraft splashed down in the Pacific Ocean, west of Baja California, after a record-breaking mission, which saw Artemis travel more than 2.3 million kilometers (1.4 million miles) on a path around the Moon before returning safely to Earth. The splashdown occurred 50 years to the day since NASA's Apollo 17 Moon landing, the last human crewed mission to touch down on the lunar surface.
+
+
+### Artemis II (2026) ###
+Artemis II (April 1–11, 2026) was a crewed flyby of the Moon. It was the first crewed flight of the NASA-led Artemis program and the first crewed flight beyond low Earth orbit since Apollo 17 in 1972. Artemis II was the second flight of the Space Launch System (SLS) and the first crewed flight of the Orion spacecraft, named Integrity by the four-person crew.
+
+The mission was a test flight supporting the Artemis IV mission to return humans to the lunar surface. Originally designated Exploration Mission-2 (EM-2) and intended to support the canceled Asteroid Redirect Mission, its objectives were revised after the establishment of the Artemis program in 2017. The mission's primary goal was to validate the Orion spacecraft's systems, crew operations, and mission procedures ahead of sustained lunar exploration in future Artemis missions. Artemis II's mission objectives were similar to those of Apollo 8 in 1968, the first crewed lunar flight of the Apollo program, while its free-return trajectory resembled that flown by Apollo 13 in 1970.
+
+Among the four crew members, Victor Glover became the first person of color, Christina Koch the first woman, Canadian Space Agency astronaut Jeremy Hansen the first non-U.S. citizen, and commander Reid Wiseman the oldest person to travel beyond low Earth orbit and around the Moon. During their lunar flyby, the crew set the record for human distance from Earth, reaching a maximum distance of 252,756 miles (406,771 km) and breaking Apollo 13's record of 248,655 miles (400,171 km). After launch, Artemis II gained widespread global attention for its achievements and inclusive crew, giving rise to the term "Moon joy".
+
+Artemis II splashed down in the Pacific Ocean on April 11 at 00:07 UTC, concluding their nine-day trip around the Moon.
+
+
+### Artemis III (2027) ###
+Artemis III is an upcoming spaceflight mission, planned to be the second crewed mission in NASA's Artemis lunar exploration program, with a targeted launch in late 2027. The crew will launch aboard the Space Launch System (SLS) rocket carrying the Orion spacecraft.
+
+The mission will rendezvous in Earth orbit with vehicles such as SpaceX's Starship HLS and Blue Origin's Blue Moon commercially developed Human Landing Systems (HLS). These will be launched separately by their commercial providers, with the mission testing rendezvous and docking operations and may also include evaluation of the Axiom Extravehicular Mobility Unit (AxEMU) space suit. It is broadly comparable to Apollo 9 in the Apollo program.
+
+Artemis III was originally planned as the first crewed lunar landing since Apollo 17 in 1972.By 2023, however, NASA had indicated the mission could proceed without a landing due to Orion spacecraft heat shield concerns and delays in the development of the Starship HLS. Alternative concepts studied included a crewed visit to the now-cancelled Lunar Gateway space station and a low Earth-orbit docking test between Orion and the Starship HLS.
+
+On February 27, 2026, NASA administrator Jared Isaacman confirmed a revised plan for Artemis III to perform tests with one or both landers in Earth orbit, with Artemis IV tentatively designated as the first crewed lunar landing mission of the Artemis program, scheduled for 2028.
+
+
+### Summary ###
+The Artemis program is NASA’s initiative to return humans to the Moon.
+
+It aims to establish a long-term presence and prepare for missions to Mars.
+
+
+### Questions and Answers ###
+
+Q: What is the Artemis program?
+A: The Artemis program is NASA’s effort to return humans to the Moon.
+
+Q: What is the goal of Artemis?
+A: The goal is to establish a sustainable lunar presence and prepare for Mars missions.
+
+Q: When did Artemis I launch?
+A: Artemis I launched in 2022 as an uncrewed mission.
+
+Q: Explain Artemis in simple terms.
+A: Artemis is NASA’s mission to send humans back to the Moon and build a long-term presence.
+
+Q: What does Artemis aim to achieve?
+A: Artemis aims to enable sustainable lunar exploration and prepare for Mars missions.
