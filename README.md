@@ -13,8 +13,8 @@ python main.py
 
 Training creates two useful files:
 
-- `artemis_gpt.pt` — the saved model checkpoint.
-- `training_metrics.png` — a plot of training and validation loss.
+- `artemis_gpt.pt` - the saved model checkpoint.
+- `training_metrics.png` - a plot of training and validation loss.
 
 After training once, run this quick demo without training again:
 
